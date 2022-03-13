@@ -1,0 +1,1 @@
+Creo un algoritmo per criptare e decriptare stringhe di testo basato su un sistema private key/pubblic key del tipo Diffie Hellman, quindi rispetto all'algebra modulare affrontata nel primo semestre durante il corso di algebra
